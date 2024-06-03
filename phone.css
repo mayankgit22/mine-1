@@ -34,10 +34,10 @@ height: 30px;}
     font-size:15px ;
 }
 .section1::before{
-    height: 60%;
+    height: 59%;
 }
 .section1 h1{
-    font-size: 2.1rem;
+    font-size: 1.8rem;
 }
 .section1 p{
     font-size: 10px;
